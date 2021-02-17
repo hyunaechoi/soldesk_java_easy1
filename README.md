@@ -1,1 +1,0 @@
-# soldesk_java_easy1
